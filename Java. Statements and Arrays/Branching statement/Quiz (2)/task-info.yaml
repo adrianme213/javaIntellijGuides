@@ -20,6 +20,8 @@ files:
       }
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1
+selected_options:
+- 3
 custom_name: Quiz

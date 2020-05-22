@@ -1,0 +1,6 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ù§ÑÂ8â‚›õ£.
+9
+java:S1643"Use a StringBuilder instead.(∂ë®∏8Ãë∂ù£.
+0
+java:S1220""Move this file to a named package.
