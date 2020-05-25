@@ -1,6 +1,24 @@
-public class Main {
+import java.util.Scanner;
+
+class Main {
 
   public static void main(String[] args) {
-    //put your code here
+    Scanner scanner = new Scanner(System.in);
+    int n = scanner.nextInt();
+    int m = scanner.nextInt();
+    int[][] matrix = new int[n][m];
+
+    for (int row = 0; row < n; row++) {
+      for (int col = 0; col < m; col++) {
+        matrix[row][col] = scanner.nextInt();
+      }
+    }
+
+    for(int col = 0; col < m; col++) {
+      for(int row = 0; row < n; row++) {
+        System.out.print(matrix[row][col] + " ");
+      }
+    }
+    scanner.close();
   }
 }
