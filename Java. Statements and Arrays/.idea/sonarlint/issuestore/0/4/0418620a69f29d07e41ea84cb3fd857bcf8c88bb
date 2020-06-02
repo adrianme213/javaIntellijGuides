@@ -1,0 +1,7 @@
+
+0
+java:S1220""Move this file to a named package.
+n
+java:S1871"LThis branch's code block is the same as the block for the branch on line 18.(ˆ¶£»ÿÿÿÿÿ8Â”£È£.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ8Ø´¥È£.
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(½Ž¼©ùÿÿÿÿ8Àá¥È£.

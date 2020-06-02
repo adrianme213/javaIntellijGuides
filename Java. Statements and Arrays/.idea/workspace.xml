@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a54a8c5-29fd-489e-a899-a2debb1701e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Boxing/Quiz (2)/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Boxing/Quiz (2)/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boxing/Quiz (3)/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Boxing/Quiz (3)/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boxing/Quiz/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Boxing/Quiz/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multi-dimensional array/Programming (8)/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-dimensional array/Programming (8)/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multi-dimensional array/Programming (8)/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-dimensional array/Programming (8)/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multi-dimensional array/Programming (9)/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-dimensional array/Programming (9)/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multi-dimensional array/Programming (9)/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-dimensional array/Programming (9)/task-info.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="3a54a8c5-29fd-489e-a899-a2debb1701e1" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/Array/Programming/.gradle/" />
@@ -319,7 +311,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
@@ -329,6 +321,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="Course">
         <subPane>
@@ -352,8 +346,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -391,10 +383,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25518927" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25824177" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
